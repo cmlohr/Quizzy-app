@@ -1,1 +1,1 @@
-quiz-gui-app
+Quizzy true or false quiz app.  Click green mark for true, red cross for false.  Screen will flash green for correct and orange for incorrect answers. 
